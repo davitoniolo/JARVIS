@@ -6,3 +6,8 @@ background-color: black;
 color:white;
 font-family: "JetBrains Mono", monospace;
 }
+
+.cabecalho{
+background-color: red;
+text-align: center;
+}
